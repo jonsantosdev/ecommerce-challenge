@@ -27,5 +27,9 @@
   ## Github repo
   https://github.com/jonsantosdev/ecommerce-challenge
 
+  ## Video submission
+  https://app.screencastify.com/v3/watch/twmIxUpjZdlWtXXJvuXM
+  
+
 
   
